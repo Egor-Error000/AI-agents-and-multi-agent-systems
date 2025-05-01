@@ -1,7 +1,7 @@
 
 
 # AI Agent Multi-Agent System Research Project
-
+[Запустить в Google Colab](https://colab.research.google.com/drive/1xkhJpnpnlRUrpaSXP065p32q7PFJvam1?usp=sharing)
 ## Обзор
 
 Данный проект представляет собой реализацию системы мультиагентного взаимодействия для решения комплексных задач с использованием LLM (Large Language Model) через Together API. В основе системы лежат агенты разного уровня, включая подчинённых агентов и координатора (Boss Agent), которые выполняют распределение задач, комбинируют результаты и проводят верификацию решений.
